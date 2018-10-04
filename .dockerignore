@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow only relevant parts of the project
+!public/
+!lib/
+!index.js
+!package.json
+!yarn.lock
